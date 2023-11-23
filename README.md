@@ -1,7 +1,7 @@
 # Hello world, I'm Pierre 👋
 ---
 
-💻 My Portfolio -> [https://pierre-monnier.fr/](https:pierre-monnier.fr)
+💻 My Portfolio -> [https://pierre-monnier.fr/](https://pierre-monnier.fr/)
 
 ## About Me
 
