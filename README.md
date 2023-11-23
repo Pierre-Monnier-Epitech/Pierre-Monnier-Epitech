@@ -35,6 +35,6 @@ My Portfolio -> [https://pierre-monnier.fr/](https:pierre-monnier.fr)
 ## test
 
 <div style="display: flex;">
-<img src="https://github-readme-stats.vercel.app/api?username=Pierre-Monnier-Epitech&show_icons=true&bg_color=00000000" width="400">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-Monnier-Epitech&layout=compact&bg_color=00000000" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=Pierre-Monnier-Epitech&show_icons=true&bg_color=00000000" height="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-Monnier-Epitech&layout=compact&bg_color=00000000" height="400" >
 </div>
