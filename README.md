@@ -1,4 +1,4 @@
-### Hello world, I'm Pierre 👋
+# Hello world, I'm Pierre 👋
 ---
 
 My Portfolio -> [https://pierre-monnier.fr/](https:pierre-monnier.fr)
@@ -25,13 +25,6 @@ My Portfolio -> [https://pierre-monnier.fr/](https:pierre-monnier.fr)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-## Where to find me 
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pierre-Monnier-Epitech)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-monnier-bb3746223/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pja.ck/?next=%2F)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pierremonnier19@gmail.com)
-
 ## test
 
 <div style="display: flex; justify-content: center; align-items: center;">
@@ -42,3 +35,12 @@ My Portfolio -> [https://pierre-monnier.fr/](https:pierre-monnier.fr)
 </div>
 </div>
 
+<img src = "https://visits.dashroshan.com/Cdq5ki5Oij5PYNgE?label=Profile+Views&shadow=0&swap=1&labelBGColor=3e3e3e&countBGColor=a8a8a8&labelTextColor=ffffff&countTextColor=000000" height = 30px/>
+
+
+## Where to find me 
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pierre-Monnier-Epitech)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-monnier-bb3746223/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pja.ck/?next=%2F)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pierremonnier19@gmail.com)
