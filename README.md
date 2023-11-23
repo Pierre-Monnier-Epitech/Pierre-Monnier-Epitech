@@ -34,4 +34,4 @@ My Portfolio -> [https://pierre-monnier.fr/](https:pierre-monnier.fr)
 
 ## test
 
-![Pierre's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![Pierre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pierre-Monnier-Epitech&show_icons=true&bg_color=00000000)
