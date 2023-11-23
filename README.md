@@ -35,9 +35,6 @@ My Portfolio -> [https://pierre-monnier.fr/](https:pierre-monnier.fr)
 </div>
 </div>
 
-<img src = "https://visits.dashroshan.com/Cdq5ki5Oij5PYNgE?label=Profile+Views&shadow=0&swap=1&labelBGColor=3e3e3e&countBGColor=a8a8a8&labelTextColor=ffffff&countTextColor=000000" height = 30px/>
-
-
 ## Where to find me 
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pierre-Monnier-Epitech)
