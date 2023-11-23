@@ -10,4 +10,4 @@ Mon Portfolio -> [Portfolio](https:pierre-monnier.fr)
 ## Langages maîtrisés
 
 - 💻 Langages & Tool :
-https://img.shields.io/badge/just%20message-8A2BE2
+[https://img.shields.io/badge/just%20message-8A2BE2]
