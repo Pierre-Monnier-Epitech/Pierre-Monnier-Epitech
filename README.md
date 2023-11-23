@@ -27,4 +27,4 @@ My Portfolio -> [https://pierre-monnier.fr/](https:pierre-monnier.fr)
 
 ## Profil
 
-![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/cover.jpg)
+![Cover](https://github.com)
