@@ -1,15 +1,13 @@
 ### Hello world, I'm Pierre 👋
 ---
 
-Mon Portfolio -> [https://pierre-monnier.fr/](https:pierre-monnier.fr)
+My Portfolio -> [https://pierre-monnier.fr/](https:pierre-monnier.fr)
 
-## À propos de moi
+## About Me
 
-🎓 Je suis actuellement étudiant à [Epitech](https://www.epitech.eu/), passionné par la programmation. Et je souhaiterais d'avoir plus d'expérience dans le monde WEB.
+🎓 I am currently a student at [Epitech](https://www.epitech.eu/), passionate about programming. And I would like to gain more experience in the WEB world.
 
-## Langages maîtrisés
-
-💻 Langages & Tools:
+## Proficient Languages & Tools:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,3 +24,7 @@ Mon Portfolio -> [https://pierre-monnier.fr/](https:pierre-monnier.fr)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+## Profil
+
+![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/cover.jpg)
