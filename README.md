@@ -1,11 +1,11 @@
 # Hello world, I'm Pierre 👋
 ---
 
-My Portfolio -> [https://pierre-monnier.fr/](https:pierre-monnier.fr)
+💻 My Portfolio -> [https://pierre-monnier.fr/](https:pierre-monnier.fr)
 
 ## About Me
 
-🎓 I am currently a student at [Epitech](https://www.epitech.eu/), passionate about programming. And I would like to gain more experience in the WEB world.
+🎓 Hey there, I'm Pierre, a 21-year-old web development enthusiast with a deep passion for video games. Currently studying at [Epitech](https://www.epitech.eu/), I find joy in the ever-evolving landscape of web development. I love delving into new technologies, thriving in team environments, and solving intricate challenges
 
 ## Proficient Languages & Tools:
 
@@ -25,7 +25,7 @@ My Portfolio -> [https://pierre-monnier.fr/](https:pierre-monnier.fr)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-## test
+## GitHub Stats
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <p align="center">
