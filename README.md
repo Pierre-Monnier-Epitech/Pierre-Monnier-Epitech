@@ -35,4 +35,4 @@ My Portfolio -> [https://pierre-monnier.fr/](https:pierre-monnier.fr)
 ## test
 
 ![Pierre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pierre-Monnier-Epitech&show_icons=true&bg_color=00000000)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-Monnier-Epitech&layout=donut" width="400">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-Monnier-Epitech&layout=compact)
